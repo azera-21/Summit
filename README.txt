@@ -1,1 +1,1 @@
-Project focused on improving CSS styling with links and buttons. Tried to incorporate incorporate skeumorphic principles whereever possible.
+Project focused on improving CSS styling with links and buttons. Tried to incorporate incorporate skeumorphic principles whereever possible
